@@ -10,7 +10,7 @@ import UserAccountsTemplate from "./UserAccountsTemplate";
 function App() {
   // boiler plate router for future SPA workflow
   // go to route localhost:3000/template for instruction based example
-  // got to route localhost:3000/responsive for responsive version
+  // got to route localhost:3000/responsive for responsive
   return (
     <Router>
       <div className="App">     
